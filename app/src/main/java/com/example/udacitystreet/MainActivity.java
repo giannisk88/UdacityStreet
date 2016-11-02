@@ -38,7 +38,6 @@ public class MainActivity extends FragmentActivity
                 .bearing(180)
                 .build();
         streetViewPanorama.animateTo(panoramaCamera,1000);
-        int i = 1 + 1;
 
     }
 }
